@@ -1,0 +1,11 @@
+1]open vs code or any other edditor
+2]pip install googletrans //error may occoure while installing but search that error on google and solve accordingly
+3]import googletrans
+4]pip install SpeechRecognition //install SpeechRecognition
+5]import SpeechRecognition
+6]pip install gTTS //install google google text to Speech
+6]import gTTS
+7]pip install playsound //you may face error while installing but u can slove this error by using google or youtube
+8]import playsound
+
+--> these are some modules you need to install while runnig this code ....and write the code accordigly 
